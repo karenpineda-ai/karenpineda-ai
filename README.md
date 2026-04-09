@@ -43,9 +43,17 @@ repetitive processes into automated systems that run themselves.
 ## Featured repositories
 
 ### 🔧 [make-automation-flow](https://github.com/karenpineda-ai/make-automation-flow)
-6 production-ready Make automation flows — Lead Qualification with Claude AI, 
-Post-Sale WhatsApp Tracking, Client Onboarding, Weekly KPI Reports, 
+6 production-ready Make automation flows — Lead Qualification with Claude AI,
+Post-Sale WhatsApp Tracking, Client Onboarding, Weekly KPI Reports,
 AI Content Generation and Customer Support Triage.
+
+### 📊 [power-bi-dashboards](https://github.com/karenpineda-ai/power-bi-dashboards)
+Real Power BI dashboards built for clients across retail, education and financial
+sectors — executive views, KPI tracking, drill-through analysis and automated reporting.
+
+### 🧠 [ai-prompts-library](https://github.com/karenpineda-ai/ai-prompts-library)
+Production-ready Claude API prompts for business automation — lead qualification,
+content generation, executive reporting and customer support triage.
 
 ---
 
