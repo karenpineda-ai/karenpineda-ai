@@ -15,5 +15,5 @@ n8n, Make, Python y Claude API.
 
 🌱 Aprendiendo: dbt · profundizando en Power BI
 📫 Abierta a roles de Automatización con IA / Business Analyst (Chile / remoto)
-(https://linkedin.com/in/karenpineda-businessanalyst)
+(https://linkedin.com/in/karenpinedacs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pineda.karenps@gmail.com)
